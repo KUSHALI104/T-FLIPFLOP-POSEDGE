@@ -54,8 +54,6 @@ RegisterNumber:212223230110
 ```
 Program for flipflops and verify its truth
 table in quartus using Verilog programming.
-Developed by: MANI SRI LATHA.M
-RegisterNumber: 212223110025
 
 verilog
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
